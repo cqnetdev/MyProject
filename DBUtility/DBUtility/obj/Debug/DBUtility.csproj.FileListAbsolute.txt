@@ -1,0 +1,8 @@
+E:\Project\TestProject\DBUtility\DBUtility\bin\Debug\DBUtility.exe.config
+E:\Project\TestProject\DBUtility\DBUtility\bin\Debug\DBUtility.exe
+E:\Project\TestProject\DBUtility\DBUtility\bin\Debug\DBUtility.pdb
+E:\Project\TestProject\DBUtility\DBUtility\obj\Debug\DBUtility.exe
+E:\Project\TestProject\DBUtility\DBUtility\obj\Debug\DBUtility.pdb
+E:\Project\TestProject\DBUtility\DBUtility\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\TestProject\DBUtility\DBUtility\bin\Debug\MySql.Data.dll
+E:\Project\TestProject\DBUtility\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
