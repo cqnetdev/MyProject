@@ -1,0 +1,8 @@
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\WeChatVotesTestForZiXuan.exe.config
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\WeChatVotesTestForZiXuan.exe
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\WeChatVotesTestForZiXuan.pdb
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\HtmlAgilityPack.dll
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\Newtonsoft.Json.dll
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\bin\Debug\Newtonsoft.Json.xml
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\obj\Debug\WeChatVotesTestForZiXuan.exe
+E:\TestProject\WeChatVotesTestForZiXuan\WeChatVotesTestForZiXuan\obj\Debug\WeChatVotesTestForZiXuan.pdb
